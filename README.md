@@ -1,4 +1,3 @@
-</head>
 <style>
             *{margin:0;padding:0}
             body{font-size:18px;font-family:Droid Sans,Helvetica,Arial;color:#333;text-align:center;background:#f8f8f8}
