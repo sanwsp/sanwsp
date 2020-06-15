@@ -23,10 +23,9 @@
 <div class="main">
             <div class="x2"><b>·</b>&nbsp;&nbsp;请用手机浏览器打开观看&nbsp;&nbsp;<b>·</b></div>
             <table class="xianlu">
-                <tbody><tr><th>地址①&nbsp;&nbsp;</th><td><a href="http://www.heisiwa.icu/" target="_blank">www.heisiwa.icu</a></td></tr>
-                <tr><th>地址②&nbsp;&nbsp;</th><td><a href="http://www.heishiwa.xyz/" target="_blank">www.heishiwa.xyz</a></td></tr>
-                
+                <tbody><tr><th>地址①&nbsp;&nbsp;</th><td><a href="http://www.caizus.com/" target="_blank">www.caizus.com</a></td></tr>
+                <tr><th>地址②&nbsp;&nbsp;</th><td><a href="http://www.aiwo8.yxz/" target="_blank">www.aiwo8.yxz</a></td></tr>
+                <tr><th>地址③&nbsp;&nbsp;</th><td><a href="www.heisiwa.icu/" target="_blank">www.heisiwa.icu</a></td></tr>
             </tbody></table>
             <div class="youlian">发送任意邮件到yomeizx1@outlook.com，自动回复最新地址</div>
-            <div class="des">收藏网址&nbsp;<font color="#f10606">liaotv.top</font>&nbsp;以防走丢</div>
-        </div>
+            <div class="des">收藏网址&nbsp;<font color="#f10606">liaotv.top</font>&nbsp;以防走丢，截图保存更方便收藏</div>
